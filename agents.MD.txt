@@ -1,0 +1,13 @@
+1) work as a python developer and create an end to end project of object detection using YOLO latest model in vs code
+
+2) first create src folder and inside the src folder you have to create camera folder and logging folder and storage folder
+
+3)makle a requirements file and put in all the requirements of this project and when ever this project is run..if the system doesn't have any requirements then they should be downloaded and installed
+
+4) inside the camera folder write the code to acess the web camera of my laptop and  use the YOLO latest function and detect the objects that are visible in the camera...and make a square around the objects detected and write its name on top right corner , each square should ne of diff colour.
+
+5)under the logging file..you should log every technical details of the projects whenever the project is run
+
+6)under the storage folder you have to store the frame that is visible using the camera and the frequency should be 1 frame per sec along with the time stamp amd the list of objects that are visible on the frame..store it in the form of csv file.
+
+7) after finishing the project create a readme file of the project and also make it as it should be ready push to github
